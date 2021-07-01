@@ -1,6 +1,6 @@
 # Laptop_MultiCLass_Classification
 
-On the basis of price range Laptop can be catogerized under following classes :
+On the basis of price range Laptop can be categorized under following classes :
 
 1. Entry-Level ( < 40K)
 2. Main Stream ( 40K - 110K )
